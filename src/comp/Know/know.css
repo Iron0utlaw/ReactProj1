@@ -23,7 +23,8 @@
     display: flex;
     gap: 10rem;
     align-self: center;
-    padding-left: 15rem ;
+    padding-left: 13.5% ;
+    padding-right: 13.5%;
     padding-top: 76px;
 }
 
@@ -40,12 +41,12 @@
 .card h5 {
     position: absolute;
     top: 151px;
-    left: 151px;
-    font-size: 24px;
+    left: 25%;
+    font-size: 1.7rem;
 }
 
 .sec h5 {
-    left: 179px;
+    left: 30%;
 }
 
 .small{
