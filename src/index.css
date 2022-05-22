@@ -26,3 +26,8 @@ section {
     height: 100vh;
     position: relative;
 }
+
+@font-face {
+    font-family: 'Stereomantic';
+    src: local('Stereomantic'), url(./assests/Stereomantic.otf) format('opentype');
+}
