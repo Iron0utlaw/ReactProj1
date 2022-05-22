@@ -1,0 +1,29 @@
+.BContent > p{
+    width: 594px;
+    color: aliceblue;
+    font-weight: 700;
+    line-height: 28.56px;
+    font-size: 24px;
+}
+
+.BContent{
+    position: absolute;
+    top: 5%;
+    left: 50%;
+}
+
+.BContent button{
+    height: 75px;
+    width: 200px;
+    border-radius: 50px;
+    background-color: #F2B821;
+    font-weight: 800;
+    font-size: 30px;
+    border-style: hidden;
+    margin-top: 2.5rem;
+    cursor: pointer;
+}
+
+a{
+    color: #2E2C2C;;
+}

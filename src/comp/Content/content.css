@@ -1,0 +1,9 @@
+.Content{
+    position: absolute;
+    bottom: 5%;
+    left: 50%;
+}
+
+.Content h1{
+    color: #2E2C2C;
+}

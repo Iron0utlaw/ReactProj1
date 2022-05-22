@@ -1,0 +1,24 @@
+.Tags{
+    background-color: #2E2C2C;
+    width: 47.75%;
+    position: absolute;
+    left: 50%;
+    padding: 1.2rem;
+    border-radius: 50px 0 0 50px;
+    top: 1rem;
+}
+
+ul{
+    display: flex;
+    gap:1.2rem
+}
+
+ul > li{
+    padding-left: 1.2rem;
+}
+
+li a{
+    font-size: 20px;
+    color: #F2B821;
+    font-weight: 700;
+}
