@@ -12,12 +12,12 @@ const Know = () => {
         <div className="cards">
           <div className="card">
             <div className="small"></div>
-            <h5>Me Knows Blender</h5>
+            <div id="h5">Me Knows Blender</div>
           </div>
 
           <div className="card sec">
             <div className="small"></div>
-            <h5>Me is Okayish</h5>
+            <div id="h5">Me is Okayish</div>
             </div>
         </div>
     </section>
